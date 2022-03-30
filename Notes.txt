@@ -1,0 +1,17 @@
+General notes :
+
+    	- This bot is targeted at automated trading on binomo.com & can have it's scope expanded to other binary options broking websites with ease
+    	- Use non-chromium/non-firefox browsers to obtain a video feed (e.g.; Pale Moon)
+    	- Red HSV limits : hMin, sMin, vMin, hMax, sMax, vMax =  170 , 121 , 255 , 179 , 170 , 255
+    	- Green HSV limits : hMin, sMin, vMin, hMax, sMax, vMax =  60 , 190 , 180 , 90 , 255 , 255
+    	- Finish flag HSV limits : hMin, sMin, vMin, hMax, sMax, vMax =  172 , 32 , 130 , 179 , 153 , 225
+    	- Bounding boxes : green bars, red bars = yellow, blue
+    	- Up button coordinates : (1178, 511)
+    	- Down button coordinates : (1178, 575)
+	- refresh to avoid errors
+
+Approaches :
+
+	- 3 candlestick approach [DONE]
+	- Using CNN + dataset
+	
