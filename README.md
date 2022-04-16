@@ -5,4 +5,4 @@ All references are implicit.
 To run the program : 
 
 1. Download the pale moon browser.
-2.  
+2. Run the python script 'optobotv1.0' under the 3-candlesticks directory.
